@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>Placeholder 404 page</h1>
+	<?php echo '<p>Hello World</p>'; ?> 
 
 
 </body>

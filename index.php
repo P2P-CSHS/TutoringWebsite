@@ -18,10 +18,11 @@
     </div>
     <div id="menu">
       <div>
-        <a href = "404.html">Test</a>
+        <a href = "404.php">Test</a>
       </div>
     </div>
 
+	
 
 </body>
 
