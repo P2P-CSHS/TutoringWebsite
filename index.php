@@ -10,6 +10,9 @@
 </head>
 
 <body>
+	<?php
+echo "Hello World!";
+?>
     <div class="header">
       <img class="p2pLogo" src="p2plogo.png" alt='Peak to Peak Charter School logo'>
       <h1 class="title" >P2P Tutoring Website</h1>
