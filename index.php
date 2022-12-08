@@ -34,6 +34,21 @@ class Tutor {
 </head>
 
 <body>
+    <div class="header">
+      <img class="p2pLogo" src="p2plogo.png" alt='Peak to Peak Charter School logo'>
+      <h1 class="title" >P2P Tutoring Website</h1>
+    </div>
+    <div id="menu">
+      <div>
+        <a href = "404.html">Menu Test</a>
+      </div>
+    </div>
+
+	
+
+</body>
+	
+<!--<body>
   <div class="header">
     <img class="p2pLogo" src="p2plogo.png" alt='Peak to Peak Charter School logo'>
     <h1 class="title" >P2P Tutoring Website</h1>
@@ -48,5 +63,5 @@ class Tutor {
 	<div id = "body">
 	</div>
 </body>
-
+-->
 </html>
