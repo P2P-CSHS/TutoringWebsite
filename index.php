@@ -11,14 +11,12 @@
 
 <body>
     <div class="header">
-      <a href = "https://www.peaktopeak.org/Page/9" target=”_blank”> 
-          <img class="p2pLogo" src="p2plogo.png" alt='Peak to Peak Charter School logo'>
-          </a>
+      <img class="p2pLogo" src="p2plogo.png" alt='Peak to Peak Charter School logo'>
       <h1 class="title" >P2P Tutoring Website</h1>
     </div>
     <div id="menu">
       <div>
-        <a href = "404.php">Test</a>
+        <a href = "404.html">Menu Test</a>
       </div>
     </div>
 
