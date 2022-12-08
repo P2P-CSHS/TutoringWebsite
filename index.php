@@ -30,7 +30,7 @@ class Tutor {
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Tutoring Website</title>
   <link rel="stylesheet" href="stylecss.css">
-	<script src = "javascript.js"></script>
+	<!--<script src = "javascript.js"></script>-->
 </head>
 
 <body>
