@@ -7,12 +7,11 @@ body {
   position: fixed;
   left: 0px;          
 	top: 0px;         
-	background: #0d2c6c;
+	background: ##055C9D;
   text-align: center;
 	width: 100%;
   height: 100px;
   padding: 20px; 
-	color: #E3E3E3;
 }
 
 #menu{
@@ -45,7 +44,7 @@ h1 {
   top:5px;
   left:20px;
   position: absolute;
-	background-color: #DEDEDE;
+	background-color: ##055C9D;
 }
 
 a {
