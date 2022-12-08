@@ -1,6 +1,12 @@
-body {
+#body {
   background-color: #DEDEDE;
   font-family: "Arial";
+}
+
+#why {
+	position: fixed;
+	top: 150px;
+	font-size: 20px;
 }
 
 .header {
@@ -55,4 +61,8 @@ a {
 			
 a:hover{
   color:white;
+}
+
+.error {
+	color: #FF0000;
 }
