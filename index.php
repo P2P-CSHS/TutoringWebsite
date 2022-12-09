@@ -2,28 +2,6 @@
 <html>
 
 <head>
-
-<?php
-
-class Tutor {
-	
-	public $name;
-
-	function __construct ($name) {
-		$this->name = $name;
-	}
-	
-	function get_name () {
-		return $this->name;
-	}
-
-	function set_name ($name) {
-		$this->name = $name;
-	}
-	
-}
-
-?>
 	
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -40,7 +18,7 @@ class Tutor {
     </div>
     <div id="menu">
       <div>
-        <a href = "404.html">Menu Test</a>
+        <a href = "404.php">Menu Test</a>
       </div>
     </div>
 
