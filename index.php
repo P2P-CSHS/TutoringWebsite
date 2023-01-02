@@ -21,6 +21,20 @@
         <a href = "404.php">Menu Test</a>
       </div>
     </div>
+	<script src="https://accounts.google.com/gsi/client" async defer></script>
+      <div id="g_id_onload"
+         data-client_id="http://524693871491-v8plufd3vtdcbe4bk1st6i0rmfqt5f50.apps.googleusercontent.com/"
+         data-login_uri="https://p2p-cshs.github.io/TutoringWebsite/"
+         data-auto_prompt="false">
+      </div>
+      <div class="g_id_signin"
+         data-type="standard"
+         data-size="large"
+         data-theme="outline"
+         data-text="sign_in_with"
+         data-shape="rectangular"
+         data-logo_alignment="left">
+      </div>
 
 	
 
